@@ -22,7 +22,7 @@
 
 <script>
 export default {
-name:CardDetail
+name: CardDetail
 }
 </script>
 
